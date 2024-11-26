@@ -3,7 +3,7 @@ import numpy as cv2
 import os
 
 # Read the image and QR code
-img_path = r'E:\Projects\PicLock\alice.jpg'
+img_path = r'E:\Projects\PicLock\origin.jpg'
 qr_path = r'E:\Projects\PicLock\qr.jpg'
 output_path = r'E:\Projects\PicLock\dst.png'
 
