@@ -19,6 +19,7 @@ The tool provides a simple graphical user interface (GUI) for the following acti
 This software is built with Python and requires the following dependencies:
 `opencv-python`
 `tkinter`
+
 To install the dependencies, run:
 `pip install opencv-python`
 ### 2. Running the Program
