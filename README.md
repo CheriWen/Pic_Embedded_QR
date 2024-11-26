@@ -37,24 +37,17 @@ Choose a save location and click "Save" to complete the process.
 ## Example
 <div align="center">
     <img src="./Example/origin.jpg" alt="origin.jpg" width="50%" style="max-width: 300px;">
+    <title>origin.jpg</title>
     <img src="./Example/dst.png" alt="dst.png" width="50%" style="max-width: 300px;">
+    <title>dst.png</title>
 </div>
 <div align="center">
     <img src="./Example/qr.png" alt="qr.png" width="50%" style="max-width: 300px;">
+    <title>qr.png</title>
     <img src="./Example/extract_qr.png" alt="extract_qr.png" width="50%" style="max-width: 300px;">
+    <title>extract_qr.png</title>
 </div>
 
-<center class="half">
-    <img src="./Example/origin.jpg" width="50%"><img src="./Example/dst.png" width="50%"/></center>
-<center class="half">
-    <title>origin.jpg</title>                                       <title>dst.png</title>
-<center class="half">
-    <img src="./Example/qr.png" width="50%"><img src="./Example/extract_qr.png" width="50%"/></center>
-<center class="half">
-    <title>qr.png</title>                                           <title>extract_qr.png</title>
-
-![Origin.jpg](./Example/origin.jpg)![dst.png](./Example/dst.png)
-![qr.png](./Example/qr.png)![extract_qr.png](./Example/extract_qr.png)
 ## Supported Image Formats
 Input: `.jpg, .png, .bmp, .tiff`
 Output: `.png`
