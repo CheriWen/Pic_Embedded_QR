@@ -1,4 +1,4 @@
 \build
 \dist
-\PicQR.ico
-\*.spec
+.\PicQR.ico
+.\*.spec
