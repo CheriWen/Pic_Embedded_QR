@@ -37,15 +37,11 @@ Choose a save location and click "Save" to complete the process.
 ## Example
 <div align="center">
     <img src="./Example/origin.jpg" alt="origin.jpg" width="40%" style="max-width: 300px;">
-    <title>origin.jpg</title>
     <img src="./Example/dst.png" alt="dst.png" width="40%" style="max-width: 300px;">
-    <title>dst.png</title>
 </div>
 <div align="center">
     <img src="./Example/qr.png" alt="qr.png" width="40%" style="max-width: 300px;">
-    <title>qr.png</title>
     <img src="./Example/extract_qr.png" alt="extract_qr.png" width="40%" style="max-width: 300px;">
-    <title>extract_qr.png</title>
 </div>
 
 ## Supported Image Formats
