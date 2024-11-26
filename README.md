@@ -38,12 +38,15 @@ Choose a save location and click "Save" to complete the process.
 ![origin.jpg](./Example/origin.jpg#pic_center)
 
 <center>origin.jpg</center>
+
 ![dst.png](./Example/dst.png#pic_center)
 
 <center>dst.png</center>
+
 ![qr.png](./Example/qr.png#pic_center)
 
 <center>qr.png</center>
+
 ![extract_qr.png](./Example/extract_qr.png#pic_center)
 
 <center>extract_qr.png</center>
