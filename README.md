@@ -36,14 +36,14 @@ Select the image with the embedded QR code.
 Choose a save location and click "Save" to complete the process.
 ## Example
 <center class="half">
-    <img src="./Example/origin.jpg" width="50%"/><img src="./Example/dst.png" width="50%"/></center>
+    <img src="./Example/origin.jpg" width="50%"><img src="./Example/dst.png" width="50%"/></center>
 <center class="half">
-    <title>origin.jpg</title> <title>dst.png</title>
+    <title>origin.jpg</title>                                       <title>dst.png</title>
 <center class="half">
-    <img src="./Example/qr.png" width="50%"/><img src="./Example/extract_qr.png" width="50%"/></center>
+    <img src="./Example/qr.png" width="50%"><img src="./Example/extract_qr.png" width="50%"/></center>
 <center class="half">
-    <title>qr.png</title> <title>extract_qr.png</title>
-    
+    <title>qr.png</title>                                           <title>extract_qr.png</title>
+
 ![Origin.jpg](./Example/origin.jpg)![dst.png](./Example/dst.png)
 ![qr.png](./Example/qr.png)![extract_qr.png](./Example/extract_qr.png)
 ## Supported Image Formats
