@@ -35,19 +35,19 @@ Click the "Extract QR Code" button.
 Select the image with the embedded QR code.
 Choose a save location and click "Save" to complete the process.
 ## Example
-![origin.jpg](./Example/origin.jpg#pic_center)
+![origin.jpg](./Example/origin.jpg#pic_center=300x300)
 
 <p align="center">origin.jpg</p>
 
-![dst.png](./Example/dst.png#pic_center)
+![dst.png](./Example/dst.png#pic_center=300x300)
 
 <p align="center">dst.png</p>
 
-![qr.png](./Example/qr.png#pic_center)
+![qr.png](./Example/qr.png#pic_center=300x300)
 
 <p align="center">qr.png</p>
 
-![extract_qr.png](./Example/extract_qr.png#pic_center)
+![extract_qr.png](./Example/extract_qr.png#pic_center=300x300)
 
 <p align="center">extract_qr.png</p>
 
