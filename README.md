@@ -37,17 +37,21 @@ Choose a save location and click "Save" to complete the process.
 ## Example
 <div align="center">
     <img src="./Example/origin.jpg" alt="origin.jpg" width="50%" style="max-width: 300px;">
-    <center>origin.jpg</center>
-    <img src="./Example/dst.png" alt="dst.png" width="50%" style="max-width: 300px;">
-    <center>dst.png</center>
 </div>
+    <center>origin.jpg</center>
+<div>
+    <img src="./Example/dst.png" alt="dst.png" width="50%" style="max-width: 300px;">
+</div>
+    <center>dst.png</center>
 
 <div align="center">
     <img src="./Example/qr.png" alt="qr.png" width="50%" style="max-width: 300px;">
-    <center>qr.png</center>
-    <img src="./Example/extract_qr.png" alt="extract_qr.png" width="50%" style="max-width: 300px;">
-    <center>extract_qr.png</center>
 </div>
+    <center>qr.png</center>
+<dic>
+    <img src="./Example/extract_qr.png" alt="extract_qr.png" width="50%" style="max-width: 300px;">
+</div>    
+    <center>extract_qr.png</center>
 
 ## Supported Image Formats
 Input: `.jpg, .png, .bmp, .tiff`
