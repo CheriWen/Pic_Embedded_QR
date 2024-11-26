@@ -42,9 +42,10 @@ The QR code will be embedded on top of the image, potentially covering part of t
 Ensure the input QR code image is clear and properly formatted.
 ## Developer
 Developer: Cheri Wen
+## Contact
 Contact: [cherii8014@gmail.com]
 ## License
-TThis project is licensed under the Apache License 2.0. You may use, modify, and distribute the software under the terms of the license.
+This project is licensed under the Apache License 2.0. You may use, modify, and distribute the software under the terms of the license.
 
 You can find the full text of the Apache License 2.0 here: [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
