@@ -37,19 +37,19 @@ Choose a save location and click "Save" to complete the process.
 ## Example
 ![origin.jpg](./Example/origin.jpg#pic_center)
 
-<center>origin.jpg</center>
+<p align="center">origin.jpg</p>
 
 ![dst.png](./Example/dst.png#pic_center)
 
-<center>dst.png</center>
+<p align="center">dst.png</p>
 
 ![qr.png](./Example/qr.png#pic_center)
 
-<center>qr.png</center>
+<p align="center">qr.png</p>
 
 ![extract_qr.png](./Example/extract_qr.png#pic_center)
 
-<center>extract_qr.png</center>
+<p align="center">extract_qr.png</p>
 
 ## Supported Image Formats
 Input: `.jpg, .png, .bmp, .tiff`
