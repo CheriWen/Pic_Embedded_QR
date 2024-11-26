@@ -35,8 +35,8 @@ Click the "Extract QR Code" button.
 Select the image with the embedded QR code.
 Choose a save location and click "Save" to complete the process.
 ## Example
-[Origin.jpg](./Example/origin.jpg) [dst.png](./Example/dst.png)
-[qr.png](./Example/qr.png) [extracted.png](./Example/extracted.png)
+![Origin.jpg](./Example/origin.jpg) ![dst.png](./Example/dst.png)
+![qr.png](./Example/qr.png) ![extracted.png](./Example/extracted.png)
 ## Supported Image Formats
 Input: `.jpg, .png, .bmp, .tiff`
 Output: `.png`
